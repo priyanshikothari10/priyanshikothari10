@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-## Hi there 👋
-
 ## 🌼 About Me
 I’m Priyanshi Kothari, a B.Tech student in Artificial Intelligence & Data Science.  
 I am currently focused on building strong fundamentals in programming, AI concepts, and cloud computing.  
