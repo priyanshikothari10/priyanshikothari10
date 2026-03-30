@@ -1,51 +1,95 @@
-## Hi there 👋
+👋 Hi, I'm Priyanshi Kothari
 
-## 🌼 About Me
-I’m Priyanshi Kothari, a B.Tech student in Artificial Intelligence & Data Science.  
-I am currently focused on building strong fundamentals in programming, AI concepts, and cloud computing.  
-I enjoy learning step by step and applying concepts through small practical projects.
-
----
-
-## 🎯 What I’m Focused On
-- Strengthening programming fundamentals  
-- Understanding core AI & Data Science concepts  
-- Practicing Data Structures & Algorithms  
-- Exploring Cloud Computing (AWS – beginner level)  
+🎓 B.Tech Student (Artificial Intelligence & Data Science)
+☁️ Aspiring Cloud & DevOps Engineer
+💡 Passionate about building real-world, scalable solutions
 
 ---
 
-## 📚 Currently Learning
-- Data Structures & Algorithms (C++)  
-- Python, C++, and Core Java  
-- Linux (basics) & Networking fundamentals  
-- Basics of Artificial Intelligence & Machine Learning  
-- Docker & Cloud (beginner level)
+🌼 About Me
+
+I am currently focused on strengthening my fundamentals in programming, cloud computing, and DevOps.
+I believe in learning by building, and I actively work on projects involving deployment, containers, and automation.
 
 ---
 
-## 🛠️ Skills
-- Programming: Python | C++ | Java  
-- Web Basics: HTML | CSS | JavaScript  
-- Tools: Git | GitHub | VS Code | Linux  
+🚀 What I'm Working On
+
+- 🔹 Data Structures & Algorithms (C++)
+- 🔹 Cloud Computing (AWS)
+- 🔹 Docker & Containerization
+- 🔹 Kubernetes (learning phase)
+- 🔹 CI/CD Pipelines (learning & implementation)
+- 🔹 Linux & Networking fundamentals
 
 ---
 
-## 🌱 Goals
-- Build a strong foundation in AI & Data Science  
-- Work on beginner-friendly real-world projects  
-- Continuously improve problem-solving skills  
+🛠️ Tech Stack
+
+💻 Languages
+
+- Python
+- C++
+- Java
+
+☁️ Cloud & DevOps
+
+- AWS (EC2, basics)
+- Docker
+- Kubernetes (Learning)
+- CI/CD (Learning)
+
+🌐 Web
+
+- HTML
+- CSS
+- JavaScript
+
+⚙️ Tools
+
+- Git & GitHub
+- VS Code
+- Linux
 
 ---
 
-## 📫 Contact
-- 📧 Email: priyanshi.pro10@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/priyanshi-kothari-93975932a/  
-- 🐦 Twitter (X): https://x.com/Priyanshi1004  
+💡 Featured Projects
+
+🚀 DevOps Voting App
+
+- Dockerized multi-container application
+- Working on AWS deployment
+- Planning CI/CD & Kubernetes integration
+
+🌍 CitySamadhan
+
+- Civic issue reporting platform
+- Focus on solving real-world urban problems
+
+📊 Enterprise Asset Tracker
+
+- Asset management system
+- Backend-focused project with practical use-case
 
 ---
 
-## ✨ Note
-Still learning, still growing — one step at a time 🚀
+📈 Current Goals
 
--->
+- Build production-ready DevOps projects
+- Gain hands-on experience with Kubernetes & CI/CD
+- Strengthen problem-solving skills (DSA)
+- Secure internship in Cloud / DevOps domain
+
+---
+
+📫 Connect With Me
+
+- 📧 Email: priyanshi.pro10@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/priyanshi-kothari-93975932a/
+- 🐦 Twitter (X): https://x.com/Priyanshi1004
+
+---
+
+✨ Quote
+
+"Learning deeply, building consistently, and improving every day." 🚀
