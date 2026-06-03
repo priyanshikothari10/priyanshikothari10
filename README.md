@@ -18,7 +18,7 @@ I believe in learning by building, and I actively work on projects involving dep
 - 🔹 Data Structures & Algorithms (C++)
 - 🔹 Cloud Computing (AWS)
 - 🔹 Docker & Containerization
-- 🔹 Kubernetes (learning phase)
+- 🔹 Kubernetes 
 - 🔹 CI/CD Pipelines (learning & implementation)
 - 🔹 Linux & Networking fundamentals
 
@@ -36,7 +36,7 @@ I believe in learning by building, and I actively work on projects involving dep
 
 - AWS (EC2, basics)
 - Docker
-- Kubernetes (Learning)
+- Kubernetes 
 - CI/CD (Learning)
 
 🌐 Web
