@@ -1,95 +1,104 @@
 👋 Hi, I'm Priyanshi Kothari
 
-🎓 B.Tech Student (Artificial Intelligence & Data Science)
+🎓 B.Tech Student in Artificial Intelligence & Data Science
+
 ☁️ Aspiring Cloud & DevOps Engineer
-💡 Passionate about building real-world, scalable solutions
+
+🐧 RHCSA Certified | Linux RHEL 9 | Git | GitHub | AWS | Docker | Ansible | Kubernetes
 
 ---
 
-🌼 About Me
+## 🌼 About Me
 
-I am currently focused on strengthening my fundamentals in programming, cloud computing, and DevOps.
-I believe in learning by building, and I actively work on projects involving deployment, containers, and automation.
+I am a B.Tech Artificial Intelligence & Data Science student at Arya College of Engineering & IT, Jaipur, with a strong interest in Cloud Computing and DevOps.
 
----
-
-🚀 What I'm Working On
-
-- 🔹 Data Structures & Algorithms (C++)
-- 🔹 Cloud Computing (AWS)
-- 🔹 Docker & Containerization
-- 🔹 Kubernetes 
-- 🔹 CI/CD Pipelines (learning & implementation)
-- 🔹 Linux & Networking fundamentals
+I have hands-on experience with Linux system administration, Git/GitHub workflows, AWS cloud services, Docker, Docker Compose, Ansible automation, and Kubernetes fundamentals. I learn by building practical projects focused on deployment, containerization, automation, and troubleshooting.
 
 ---
 
-🛠️ Tech Stack
+## 🚀 DevOps Skills
 
-💻 Languages
+- 🐧 Linux RHEL 9, shell commands, services, users, permissions, and system administration
+- 🔧 Git and GitHub for version control, repositories, branches, and project documentation
+- ☁️ AWS EC2, RDS, S3, IAM, and security groups
+- 🐳 Docker images, containers, volumes, networking, and Docker Compose
+- ⚙️ Ansible for automated server setup and configuration management
+- ☸️ Kubernetes pods, deployments, services, ConfigMaps, Secrets, PV, PVC, scaling, and rolling updates
+- 🧩 Basic troubleshooting of servers, containers, pods, and networking issues
+
+---
+
+## 🛠️ Tech Stack
+
+**Cloud & DevOps**
+
+- AWS
+- Linux RHEL 9
+- Git & GitHub
+- Docker
+- Docker Compose
+- Ansible
+- Kubernetes
+
+**Programming**
 
 - Python
 - C++
 - Java
 
-☁️ Cloud & DevOps
-
-- AWS (EC2, basics)
-- Docker
-- Kubernetes 
-- CI/CD (Learning)
-
-🌐 Web
+**Web**
 
 - HTML
 - CSS
 - JavaScript
-
-⚙️ Tools
-
-- Git & GitHub
-- VS Code
-- Linux
+- React
 
 ---
 
-💡 Featured Projects
+## 💡 Featured DevOps Projects
 
-🚀 DevOps Voting App
+### 🚀 LAMP Stack Deployment on AWS
 
-- Dockerized multi-container application
-- Working on AWS deployment
-- Planning CI/CD & Kubernetes integration
+- Deployed a LAMP stack application using AWS EC2, RDS, and S3
+- Automated server setup using Ansible
+- Worked with Apache web server, MySQL/RDS connectivity, IAM, and security groups
 
-🌍 CitySamadhan
+Repository: https://github.com/priyanshikothari10/LAMP-stack-project
 
-- Civic issue reporting platform
-- Focus on solving real-world urban problems
+### ☸️ WordPress on Kubernetes
 
-📊 Enterprise Asset Tracker
+- Practiced Kubernetes deployment for WordPress with a MySQL backend
+- Covered pods, deployments, services, secrets, PV, PVC, scaling, and rolling updates
+- Documented troubleshooting areas like PVC pending state, CrashLoopBackOff, and service connectivity
 
-- Asset management system
-- Backend-focused project with practical use-case
+Repository: https://github.com/priyanshikothari10/Containerized-WordPress-Application-on-Kubernetes
+
+### 🐳 Docker Voting App
+
+- Deployed a multi-container voting app using Docker Compose
+- Used Redis, PostgreSQL, worker service, voting frontend, and result dashboard
+- Practiced container networking and AWS EC2 deployment
+
+Repository: https://github.com/priyanshikothari10/docker-voting-app
 
 ---
 
-📈 Current Goals
+## 🌱 Currently Learning
 
-- Build production-ready DevOps projects
-- Gain hands-on experience with Kubernetes & CI/CD
-- Strengthen problem-solving skills (DSA)
-- Secure internship in Cloud / DevOps domain
+- CI/CD pipelines using Jenkins and GitHub Actions
+- GitOps and infrastructure automation
+- Terraform for AWS infrastructure provisioning
+- Kubernetes troubleshooting and cluster operations
 
 ---
 
-📫 Connect With Me
+## 📫 Connect With Me
 
+- 🌐 Portfolio: https://priyanshi-kothari-portfolio.netlify.app/
 - 📧 Email: priyanshi.pro10@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/priyanshi-kothari-93975932a/
-- 🐦 Twitter (X): https://x.com/Priyanshi1004
+- 💻 GitHub: https://github.com/priyanshikothari10
 
 ---
 
-✨ Quote
-
-"Learning deeply, building consistently, and improving every day." 🚀
+✨ "Learning deeply, building consistently, and improving every day."
