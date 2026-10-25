@@ -96,7 +96,7 @@ Repository: https://github.com/priyanshikothari10/docker-voting-app
 
 - 🌐 Portfolio: https://priyanshi-kothari-portfolio.netlify.app/
 - 📧 Email: priyanshi.pro10@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/priyanshi-kothari-93975932a/
+- 💼 LinkedIn: https://www.linkedin.com/in/priyanshi-kothari-/
 - 💻 GitHub: https://github.com/priyanshikothari10
 
 ---
